@@ -1,1 +1,1 @@
-# rebase-test-repopo
+Test Java project with git rebase
